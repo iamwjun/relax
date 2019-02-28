@@ -1,0 +1,29 @@
+{
+  "name": "relax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplash/relax.git"
+  },
+  "keywords": [
+    "CA",
+    "mode"
+  ],
+  "author": "iamk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iplash/relax/issues"
+  },
+  "homepage": "https://github.com/iplash/relax#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.5"
+  }
+}
