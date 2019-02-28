@@ -1,4 +1,4 @@
-简体中文 | [English](./README.md)
+[English](./README.md) | 简体中文
 
 <h1 align="center">relax</h1>
 
