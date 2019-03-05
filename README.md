@@ -1,6 +1,6 @@
 English | [简体中文](./README.zh-CN.md)
 
-<h1>Relax - a simple mode for mobile user operation</h1>
+<h1>Relax is a simple mode for mobile user operation</h1>
 <ul>
     <li>  -- command + action</li>
 </ul>
